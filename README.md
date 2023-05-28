@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
+ 
  
  <h1 align="center">Hi 👋, I'm Saurabh Gupta.</h1>
 <h3 align="center">As a penultimate year engineering student, I possess expertise in developing robust and scalable full-stack web applications. My specialization also extends to constructing optimized and efficient solutions for algorithmic problems. I have a strong foundation in various programming languages, frameworks, and technologies required for modern web development. With a focus on delivering high-quality software solutions, I continually strive to stay updated with the latest industry trends and best practices. My goal is to contribute to the development of cutting-edge web applications while ensuring their reliability, performance, and user experience.</h3>
